@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ED2I4-0708/1.0.0": {
+        "runtime": {
+          "ED2I4-0708.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ED2I4-0708/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

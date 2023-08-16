@@ -1,0 +1,15 @@
+/home/runner/ED2I4-0708/bin/Debug/net6.0/ED2I4-0708
+/home/runner/ED2I4-0708/bin/Debug/net6.0/ED2I4-0708.deps.json
+/home/runner/ED2I4-0708/bin/Debug/net6.0/ED2I4-0708.runtimeconfig.json
+/home/runner/ED2I4-0708/bin/Debug/net6.0/ED2I4-0708.dll
+/home/runner/ED2I4-0708/bin/Debug/net6.0/ED2I4-0708.pdb
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.csproj.AssemblyReference.cache
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.AssemblyInfoInputs.cache
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.AssemblyInfo.cs
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.csproj.CoreCompileInputs.cache
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.dll
+/home/runner/ED2I4-0708/obj/Debug/net6.0/refint/ED2I4-0708.dll
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.pdb
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ED2I4-0708.genruntimeconfig.cache
+/home/runner/ED2I4-0708/obj/Debug/net6.0/ref/ED2I4-0708.dll
